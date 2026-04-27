@@ -1,5 +1,5 @@
 # logica-matematica-notebookLM
-Farramenta NotebookLM aplicada ao estudo de Lógica Matemática.
+Ferramenta NotebookLM aplicada ao estudo de Lógica Matemática.
 
 **CONTEXTO E OBJETIVOS**:
 
